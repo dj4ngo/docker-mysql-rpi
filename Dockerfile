@@ -1,4 +1,4 @@
-FROM sboyron/alpine-armhf
+FROM dj4ngo/alpine-rpi
 
 MAINTAINER sboyron <sebastien@boyron.eu>
 

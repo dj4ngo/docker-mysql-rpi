@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-docker build -t sboyron/mysql-rpi .
+docker build -t dj4ngo/mysql-rpi .
